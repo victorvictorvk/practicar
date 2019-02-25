@@ -1,4 +1,7 @@
 
 holii que tal estas?
 pos molt be
+<<<<<<< HEAD
 todo bien?
+
+yo tb estoy bien
